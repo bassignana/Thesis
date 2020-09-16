@@ -1,2 +1,2 @@
 # Thesis
-Bachelor's degree thesis
+Bachelor's degree thesis, see pdf for details
